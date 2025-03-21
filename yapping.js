@@ -1,1 +1,0 @@
-let yapping = 'udah yappingnya?'
